@@ -1,5 +1,8 @@
 _repo: In-the-South-Seas--13-Being-an-Account-of-Experiences-and-Observations-in-the-Marquesas-Paumotu__464
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -17,6 +20,8 @@ description: 'In the South Seas is a collection of Robert Louis Stevenson''s art
   to visit like a ghost, and be carried like a bale, among scenes that had attracted
   me in youth and health. I chartered accordingly Dr. Merrit''s schooner yacht, the
   Casco, seventy-four tons.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/464#In-the-South-Seas--13-Being-an-Account-of-Experiences-and-Observations-in-the-Marquesas-Paumotu_
 gutenberg_issued: '1996-03-01'
 gutenberg_type: Text
 identifiers:
